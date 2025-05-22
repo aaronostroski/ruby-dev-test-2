@@ -1,11 +1,17 @@
 fijacion:
   name: Fijación Oral, Vol. 1
-  player: shakira
 
 fixation:
   name: Oral Fixation, Vol. 2
-  player: shakira
 
 fixation:
   name: She Wolf
-  player: shakira
+
+peligro:
+  name: Peligro
+
+confessions:
+  name: Confessions on a Dance Floor
+
+lemonade:
+  name: Lemonade
